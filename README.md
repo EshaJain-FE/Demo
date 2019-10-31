@@ -1,5 +1,4 @@
-# Demo
-This project demonstrates my skills as a frontend developer.
+# Dynamic progress bar (REACT JS)
 
 Steps to follow-
 1. Clone the Repository
